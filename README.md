@@ -38,8 +38,5 @@
 ## 鸣谢
 
 1. 使用我的数据包的每一位玩家
-<<<<<<< HEAD
-2. 本项目的原型[Advanced（增强的我的世界）]([shuhehehe123/Advanced: A minecraft datapack. (github.com)](https://github.com/shuhehehe123/Advanced))
-=======
 2. 本项目的原型[Advanced（增强的我的世界）](https://github.com/shuhehehe123/Advanced)
->>>>>>> s
+
